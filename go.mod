@@ -14,7 +14,7 @@ require (
 	github.com/go-sql-driver/mysql v1.4.1 // indirect
 	github.com/golang-migrate/migrate/v4 v4.1.0
 	github.com/google/pprof v0.0.0-20190502144155-8358a9778bd1 // indirect
-	github.com/google/wire v0.2.1
+	github.com/google/wire v0.4.0
 	github.com/gopherjs/gopherjs v0.0.0-20181103185306-d547d1d9531e // indirect
 	github.com/ianlancetaylor/demangle v0.0.0-20181102032728-5e5cf60278f6 // indirect
 	github.com/imkira/go-interpol v1.1.0 // indirect
