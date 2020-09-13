@@ -1,7 +1,6 @@
 module github.com/snowzach/gorestapi
 
 require (
-	github.com/BurntSushi/toml v0.3.1 // indirect
 	github.com/ajg/form v0.0.0-20160822230020-523a5da1a92f // indirect
 	github.com/docker/distribution v2.6.2+incompatible // indirect
 	github.com/docker/docker v1.13.1 // indirect
@@ -41,7 +40,7 @@ require (
 	github.com/spf13/viper v1.2.1
 	github.com/stevvooe/resumable v0.0.0-20180830230917-22b14a53ba50 // indirect
 	github.com/stretchr/objx v0.1.1 // indirect
-	github.com/stretchr/testify v1.2.2
+	github.com/stretchr/testify v1.4.0
 	github.com/valyala/fasthttp v1.0.0 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20180127040702-4e3ac2762d5f // indirect
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
@@ -50,12 +49,7 @@ require (
 	github.com/yudai/gojsondiff v1.0.0 // indirect
 	github.com/yudai/golcs v0.0.0-20170316035057-ecda9a501e82 // indirect
 	github.com/yudai/pp v2.0.1+incompatible // indirect
-	go.uber.org/atomic v1.3.2 // indirect
-	go.uber.org/multierr v1.1.0 // indirect
-	go.uber.org/zap v1.9.1
+	go.uber.org/zap v1.16.0
 	golang.org/x/arch v0.0.0-20190312162104-788fe5ffcd8c // indirect
-	golang.org/x/crypto v0.0.0-20190506204251-e1dfcc566284 // indirect
-	golang.org/x/tools v0.0.0-20190509153222-73554e0f7805 // indirect
 	google.golang.org/appengine v1.3.0 // indirect
-	gopkg.in/yaml.v2 v2.2.2 // indirect
 )
